@@ -1,2 +1,2 @@
 # Alura-Books
-HTML and CSS responsive project developed during an Alura's course.
+HTML and CSS responsive layout project developed during an Alura's course.
